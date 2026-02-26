@@ -17,6 +17,15 @@
       "gradient": "#0d1117,#161b22,#21262d",
       "cover": "overwatch.png",
       "active": false
+    },
+    {
+      "id": "marvelrivals",
+      "name": "Marvel Rivals",
+      "badge": "FPS",
+      "badgeColor": "#dc2626",
+      "gradient": "#1a0a0f,#2e141e,#421e2d",
+      "cover": "marvelrivals.png",
+      "active": false
     }
   ]
 }
