@@ -8,6 +8,15 @@
       "gradient": "#1a1a1a,#2a2a2a,#1f1f2f",
       "cover": "apex.png",
       "active": false
+    },
+    {
+      "id": "overwatch",
+      "name": "Overwatch",
+      "badge": "FPS",
+      "badgeColor": "#f59e0b",
+      "gradient": "#0d1117,#161b22,#21262d",
+      "cover": "overwatch.png",
+      "active": false
     }
   ]
 }
