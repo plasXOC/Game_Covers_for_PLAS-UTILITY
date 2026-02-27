@@ -1,6 +1,42 @@
 {
   "games": [
     {
+      "id": "bo7",
+      "name": "Black Ops 7",
+      "badge": "FPS",
+      "badgeColor": "#06b6d4",
+      "gradient": "#0a1628,#162a4a,#1a3a5c",
+      "cover": "bo7.png",
+      "active": true
+    },
+    {
+      "id": "fortnite",
+      "name": "Fortnite",
+      "badge": "BR",
+      "badgeColor": "#6366f1",
+      "gradient": "#1a0a2e,#2d1b69,#5b21b6",
+      "cover": "fortnite.png",
+      "active": true
+    },
+    {
+      "id": "cs2",
+      "name": "Counter-Strike 2",
+      "badge": "TAC",
+      "badgeColor": "#f59e0b",
+      "gradient": "#0c1821,#162a3a,#1b4332",
+      "cover": "cs2.png",
+      "active": true
+    },
+    {
+      "id": "valorant",
+      "name": "Valorant",
+      "badge": "TAC",
+      "badgeColor": "#ef4444",
+      "gradient": "#1a0000,#3b0d0d,#6b1d1d",
+      "cover": "valorant.png",
+      "active": true
+    },
+    {
       "id": "apex",
       "name": "Apex Legends",
       "badge": "BR",
