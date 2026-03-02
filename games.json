@@ -71,7 +71,24 @@
       "gradient": "#1a0a0f,#2e141e,#421e2d",
       "cover": "marvelrivals.png",
       "active": false
+    },
+    {
+      "id": "rocketleague",
+      "name": "Rocket League",
+      "badge": "SPORT",
+      "badgeColor": "#3b82f6",
+      "gradient": "#0a1a2e,#1a2a4e,#0a1a2e",
+      "cover": "rocketleague.png",
+      "active": false
+    },
+    {
+      "id": "cyberpunk2077",
+      "name": "Cyberpunk 2077",
+      "badge": "RPG",
+      "badgeColor": "#facc15",
+      "gradient": "#0a0f1a,#1a2035,#2a1f3a",
+      "cover": "cyberpunk2077.png",
+      "active": false
     }
   ]
 }
-
