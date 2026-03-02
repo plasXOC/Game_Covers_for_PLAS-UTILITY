@@ -89,6 +89,33 @@
       "gradient": "#0a0f1a,#1a2035,#2a1f3a",
       "cover": "cyberpunk2077.png",
       "active": false
+    },
+    {
+      "id": "bf6",
+      "name": "Battlefield 6",
+      "badge": "FPS",
+      "badgeColor": "#22c55e",
+      "gradient": "#0a1218,#1a2a35,#0d1f2d",
+      "cover": "bf6.png",
+      "active": false
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "badge": "SURV",
+      "badgeColor": "#cd412b",
+      "gradient": "#1a1210,#2a1e18,#3a2a1e",
+      "cover": "rust.png",
+      "active": false
+    },
+    {
+      "id": "r6",
+      "name": "Rainbow Six Siege",
+      "badge": "TAC",
+      "badgeColor": "#f59e0b",
+      "gradient": "#0a0a1a,#1a1a2e,#2a2a3e",
+      "cover": "r6.png",
+      "active": false
     }
   ]
 }
