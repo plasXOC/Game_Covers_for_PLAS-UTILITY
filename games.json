@@ -42,7 +42,7 @@
       "badge": "PVE",
       "badgeColor": "#22d3ee",
       "gradient": "#0a0f1a,#1a2a3a,#2a3f55",
-      "cover": "arcraiders.png",
+      "cover": "arc.png",
       "active": true
     },
     {
@@ -74,3 +74,4 @@
     }
   ]
 }
+
